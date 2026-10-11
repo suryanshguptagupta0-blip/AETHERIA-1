@@ -4,7 +4,7 @@
 
 [Open this repository in Codespaces](https://codespaces.new/suryanshguptagupta0-blip/AETHERIA-1?quickstart=1).
 
-The dev container runs the portable rules and build/APK parser checks on creation. It does not download Unreal Engine or start a native APK build. The initial Codespace is a source-development workspace; the latest account inspection found no running Codespace, and the integration cannot manage machine selection (HTTP403).
+The dev container runs the portable rules and build/APK parser checks on creation. It does not download Unreal Engine or start a native APK build. The initial Codespace is a source-development workspace. Codespaces availability and free usage depend on your GitHub account; no Codespace is created automatically by this repository.
 
 Use `bash .devcontainer/check-source.sh` to repeat the source checks. For Android prerequisites, follow [BuildScripts/README.md](BuildScripts/README.md). A real accessible UE5.6.1 Linux engine/build host is still required. No APK is supplied.
 
