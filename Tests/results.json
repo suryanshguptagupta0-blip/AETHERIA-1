@@ -1,0 +1,25 @@
+{
+  "verified_at_utc": "2026-10-11T06:35:58.275013+00:00",
+  "compiler": "g++ (Debian 14.2.0-19) 14.2.0",
+  "portable_rules": {
+    "assertions": 1991,
+    "failures": 0,
+    "strict_command": "g++ -std=c++17 -O2 -Wall -Wextra -Wpedantic -Werror -fno-exceptions -fno-rtti Source/Aetheria/Rules/AetheriaRules.cpp Tests/RulesTests.cpp -I Source/Aetheria/Rules -o Tests/.build/rules-tests && Tests/.build/rules-tests",
+    "sanitizers": "address,undefined",
+    "sanitizer_assertions": 1991,
+    "sanitizer_failures": 0
+  },
+  "native_ue_build": {
+    "status": "not_run",
+    "reason": "UE5.6 engine/editor unavailable in this workspace"
+  },
+  "android_apk": {
+    "status": "not_built",
+    "reason": "Unreal Engine and Android SDK/NDK unavailable"
+  },
+  "source_sha256": {
+    "Source/Aetheria/Rules/AetheriaRules.h": "71c311a52d78c05fdca5a7df86af1ce6bff03d04d483d7e104c29980d406d0c5",
+    "Source/Aetheria/Rules/AetheriaRules.cpp": "7acbd4bec9eee0b8a205904fb0d897de42320cadb0cf3de9ffefbf779f2bd904",
+    "Tests/RulesTests.cpp": "3a26091be0d123c727214d6311e5c90952e2827c14f585f854802f43262dfbf8"
+  }
+}

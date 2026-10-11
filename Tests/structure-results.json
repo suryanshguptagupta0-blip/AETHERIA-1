@@ -1,0 +1,7 @@
+{
+  "check": "project_structure",
+  "passed": true,
+  "errors": [],
+  "unreal_compile": "not_run",
+  "meaning": "Static source/config checks only; UHT and UE builds remain required."
+}

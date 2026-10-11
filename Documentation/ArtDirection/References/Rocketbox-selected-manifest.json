@@ -1,0 +1,279 @@
+{
+  "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "status": "researched, not imported",
+  "files": [
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59e6c03fa86691cda806ef5d5b040e462c0fb9c1",
+      "size": 609152,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/59e6c03fa86691cda806ef5d5b040e462c0fb9c1"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01_facial.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90c4e00089c5193cb96b9da5db9e043bcae9b019",
+      "size": 2226864,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/90c4e00089c5193cb96b9da5db9e043bcae9b019"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/WrinklesNormal.shader",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "036deb8e50874725042b8809d9611e4d2af16c82",
+      "size": 699,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/036deb8e50874725042b8809d9611e4d2af16c82"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_body_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25852db0db1f44a0de0643ce1e09c88aef587e6f",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/25852db0db1f44a0de0643ce1e09c88aef587e6f"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_body_normal.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "345ba24adc6d429a1e0967c0010588b88892be46",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/345ba24adc6d429a1e0967c0010588b88892be46"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_body_specular.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cb0a66433aac02a3899c2ceeceb4e11880e6395",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/4cb0a66433aac02a3899c2ceeceb4e11880e6395"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_head_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cdc62ab47da3dca01aff0bb179159865a559c63",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/0cdc62ab47da3dca01aff0bb179159865a559c63"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_head_normal.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6de1fb458c746154713e8c34039add24f4ba9f6d",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/6de1fb458c746154713e8c34039add24f4ba9f6d"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_head_normal_wrinkle.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e45bb8665b06c0feb6ffe7e765315059dc75bed",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/3e45bb8665b06c0feb6ffe7e765315059dc75bed"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_head_specular.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47a70e2ff5ed71ff3152019bc46845ef7ff3fbf8",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/47a70e2ff5ed71ff3152019bc46845ef7ff3fbf8"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/f001_opacity_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de21a9e69c88e539da6a5050eaceadd026e99b62",
+      "size": 16777260,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/de21a9e69c88e539da6a5050eaceadd026e99b62"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Textures/head.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6c3aa790a4d589e0ecf757189dc26f7f2181b1e",
+      "size": 2824,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/e6c3aa790a4d589e0ecf757189dc26f7f2181b1e"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdaf4aa7d15054f1601740ea1a09cf111938d210",
+      "size": 521472,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/fdaf4aa7d15054f1601740ea1a09cf111938d210"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01_facial.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2ee0c45c974f49edbfd9c23e8da43a43910b021",
+      "size": 1962256,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/b2ee0c45c974f49edbfd9c23e8da43a43910b021"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_body_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "818ec72b6c69655c5853ab0eb1efdd6ab40b2bf0",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/818ec72b6c69655c5853ab0eb1efdd6ab40b2bf0"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_body_normal.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31168ae5dca1085bb433988ff18f37fefe7dba0a",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/31168ae5dca1085bb433988ff18f37fefe7dba0a"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_body_specular.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "525c3d89d06bc75b5fd1de4b310f17ee03aff148",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/525c3d89d06bc75b5fd1de4b310f17ee03aff148"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_head_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0becf592ac705b4a2be8a63aa164266ac2a09d9c",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/0becf592ac705b4a2be8a63aa164266ac2a09d9c"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_head_normal.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d2385bd43ec4e2bbc1712168d5317d06f9941e7",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/9d2385bd43ec4e2bbc1712168d5317d06f9941e7"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_head_specular.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52b700ec4766105fad73bfc8415036d5db26d2a4",
+      "size": 12582956,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/52b700ec4766105fad73bfc8415036d5db26d2a4"
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Textures/m002_opacity_color.tga",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4088df07a8896761bd209d304b12310f90e5003",
+      "size": 16777260,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/a4088df07a8896761bd209d304b12310f90e5003"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64d93cc3d5c38dc107d4dad23da70855a64ddb10",
+      "size": 1379504,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/64d93cc3d5c38dc107d4dad23da70855a64ddb10"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_01.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "735b406c2f19cf233f042bfe0424c2a15c053c95",
+      "size": 1397280,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/735b406c2f19cf233f042bfe0424c2a15c053c95"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "145d6aebb39825777af8fa483abd0ff44f3e3fb0",
+      "size": 895504,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/145d6aebb39825777af8fa483abd0ff44f3e3fb0"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94d6f50765e0865eee6dd439b1ab0ca3511c784e",
+      "size": 1002832,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/94d6f50765e0865eee6dd439b1ab0ca3511c784e"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_01.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4e604bcbcf46b032533707f2b10a7c4d0b4811c",
+      "size": 993792,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/c4e604bcbcf46b032533707f2b10a7c4d0b4811c"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_02.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c51e61e132cb17d1894d44507f2569b3d0883365",
+      "size": 1003600,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/c51e61e132cb17d1894d44507f2569b3d0883365"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_03.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e6b09caa31834c9c8c6c891ab5ec342c162374c",
+      "size": 1039536,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/3e6b09caa31834c9c8c6c891ab5ec342c162374c"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_04.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb8200faf2859756a0daf172e1eb2037ae09442",
+      "size": 1002848,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/3bb8200faf2859756a0daf172e1eb2037ae09442"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6346c68a30da9b89b4d561de885818c0e2f4080",
+      "size": 877760,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/f6346c68a30da9b89b4d561de885818c0e2f4080"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8816638330d02fb31920d46851188b920d66ab1",
+      "size": 958512,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/f8816638330d02fb31920d46851188b920d66ab1"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_01.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33955a38a7db608935477e7a0fd605dee5230c0c",
+      "size": 994336,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/33955a38a7db608935477e7a0fd605dee5230c0c"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_02.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4fc372186ed1c7f0efd52dae4e542534d9323f2",
+      "size": 958640,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/b4fc372186ed1c7f0efd52dae4e542534d9323f2"
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_03.max.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53680bf8d8e948f9befc5f4c16961a9da7b44a75",
+      "size": 958528,
+      "url": "https://api.github.com/repos/microsoft/Microsoft-Rocketbox/git/blobs/53680bf8d8e948f9befc5f4c16961a9da7b44a75"
+    }
+  ]
+}

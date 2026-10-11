@@ -1,0 +1,28 @@
+name: Unreal build on supplied engine runner
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        type: choice
+        options: [toolchain, editor, game, server, avatars, android]
+        default: editor
+jobs:
+  native:
+    runs-on: [self-hosted, linux, ue56]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - run: python3 BuildScripts/build.py ${{ inputs.target }}
+        env:
+          UE_ROOT: ${{ vars.UE_ROOT }}
+          ANDROID_HOME: ${{ vars.ANDROID_HOME }}
+          NDKROOT: ${{ vars.NDKROOT }}
+          JAVA_HOME: ${{ vars.JAVA_HOME }}
+      - name: Retain real Android build artifacts
+        if: inputs.target == 'android'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Aetheria-Android-development
+          path: Build/Artifacts/**/*.apk
+          if-no-files-found: error

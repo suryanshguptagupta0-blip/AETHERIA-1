@@ -1,0 +1,47 @@
+{
+  "retrieved_at_utc": "2026-10-11",
+  "files": [
+    {
+      "repository": "https://github.com/google/fonts",
+      "commit": "bd8f81ddb5c74d5c8897b36ad88b440266245103",
+      "upstream_path": "ofl/notosansdevanagari/NotoSansDevanagari[wdth,wght].ttf",
+      "git_blob_sha": "163f04bddc5a96fc523e4080466cac5c588f6594",
+      "bytes": 641944,
+      "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e",
+      "local_path": "Content/UI/Fonts/NotoSansDevanagari-Variable.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/bd8f81ddb5c74d5c8897b36ad88b440266245103/ofl/notosansdevanagari/NotoSansDevanagari%5Bwdth%2Cwght%5D.ttf",
+      "status": "downloaded source; not imported, cooked, or integrated"
+    },
+    {
+      "repository": "https://github.com/google/fonts",
+      "commit": "bd8f81ddb5c74d5c8897b36ad88b440266245103",
+      "upstream_path": "ofl/notosansdevanagari/OFL.txt",
+      "git_blob_sha": "cd2cc5c94b4151933eba6ee508e3975274d6fa07",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331",
+      "local_path": "Content/UI/Fonts/OFL.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/bd8f81ddb5c74d5c8897b36ad88b440266245103/ofl/notosansdevanagari/OFL.txt",
+      "status": "downloaded source; not imported, cooked, or integrated"
+    }
+  ],
+  "validation": {
+    "ttf_parsed": true,
+    "axes": [
+      {
+        "tag": "wght",
+        "minimum": 100.0,
+        "default": 400.0,
+        "maximum": 900.0
+      },
+      {
+        "tag": "wdth",
+        "minimum": 62.5,
+        "default": 100.0,
+        "maximum": 100.0
+      }
+    ],
+    "sample": "मैं आपकी सहायता कैसे कर सकता हूँ?",
+    "missing_sample_codepoints": [],
+    "shaping_or_UMG_rendering_verified": false
+  }
+}

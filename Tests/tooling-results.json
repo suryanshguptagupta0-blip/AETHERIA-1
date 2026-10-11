@@ -1,0 +1,26 @@
+{
+  "check": "tooling_regression_tests",
+  "command": [
+    "python3",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "Tests",
+    "-p",
+    "test_*.py",
+    "-v"
+  ],
+  "tests": 38,
+  "passed": true,
+  "failures": 0,
+  "fixtures": "Synthetic parser inputs; not engine build or APK evidence.",
+  "sha256": {
+    "BuildScripts/build.py": "983367163517eb9010aa48c0945aad3df4b7338efc1fb2bd528c88c575d95965",
+    "BuildScripts/verify_apk.py": "6001d7ea1ef0185070efbcc04d87d8d1adea9097eba343f9982c811b481ff3ed",
+    "Tests/test_build_preflight.py": "fb962a8b474703e4baeabeafa64d71f14c446e5c2857b1570719c5f2d3c875f7",
+    "Tests/test_apk_verifier.py": "6e824b9f4613f28d475565a01b7fba112901dc8967fb921bf3f7894a91df6a48"
+  },
+  "unreal_compile": "not_run",
+  "apk": "not_built"
+}

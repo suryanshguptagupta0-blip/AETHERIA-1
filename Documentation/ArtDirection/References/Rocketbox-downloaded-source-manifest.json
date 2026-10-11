@@ -1,0 +1,103 @@
+{
+  "retrieved_at_utc": "2026-10-11",
+  "license": "MIT; preserve Rocketbox-LICENSE.md in both source folders",
+  "total_bytes": 7642016,
+  "files": [
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx",
+      "local_path": "Content/Characters/SourceArt/Female_Adult_01.fbx",
+      "bytes": 609152,
+      "git_blob_sha": "59e6c03fa86691cda806ef5d5b040e462c0fb9c1",
+      "sha256": "8cbaf86576004b96469bc80df123b97fef788f4a7bb3f3eaa616fcfaf55698a3",
+      "fbx_version": 7400,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx",
+      "upstream_path": "Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx",
+      "local_path": "Content/Characters/SourceArt/Male_Adult_01.fbx",
+      "bytes": 521472,
+      "git_blob_sha": "fdaf4aa7d15054f1601740ea1a09cf111938d210",
+      "sha256": "8d1edb51b4dc3427ae2456f4407fc105532c145dd019e53cd42bab31cc948a29",
+      "fbx_version": 7400,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+      "local_path": "Content/Animations/SourceArt/f_idle_breathe_01.max.fbx",
+      "bytes": 1379504,
+      "git_blob_sha": "64d93cc3d5c38dc107d4dad23da70855a64ddb10",
+      "sha256": "e470ba984484149c8269772b7640b754bd996ba83b23ae75535128412997aa45",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_01.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_01.max.fbx",
+      "local_path": "Content/Animations/SourceArt/m_idle_breathe_01.max.fbx",
+      "bytes": 1397280,
+      "git_blob_sha": "735b406c2f19cf233f042bfe0424c2a15c053c95",
+      "sha256": "281735704260d96e882d13e3c77d0ede00ed5d2e40805cd305000b3e5cbb1090",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral.max.fbx",
+      "local_path": "Content/Animations/SourceArt/f_walk_neutral.max.fbx",
+      "bytes": 1002832,
+      "git_blob_sha": "94d6f50765e0865eee6dd439b1ab0ca3511c784e",
+      "sha256": "e210c9e34949a4eacad0a85021d4d1a59aab177ca1737e6038309896147ebae2",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral.max.fbx",
+      "local_path": "Content/Animations/SourceArt/m_walk_neutral.max.fbx",
+      "bytes": 958512,
+      "git_blob_sha": "f8816638330d02fb31920d46851188b920d66ab1",
+      "sha256": "93089851a370e3a117a6bd04c002815f7133fce41c6271e9eb448ca1228b154f",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_run_neutral.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral.max.fbx",
+      "local_path": "Content/Animations/SourceArt/f_run_neutral.max.fbx",
+      "bytes": 895504,
+      "git_blob_sha": "145d6aebb39825777af8fa483abd0ff44f3e3fb0",
+      "sha256": "3665a15cc1fea263ffb642b22e0a12c7d3bc771fead869f8fec3959fbd584eeb",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    },
+    {
+      "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+      "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "source_url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/m_run_neutral.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral.max.fbx",
+      "local_path": "Content/Animations/SourceArt/m_run_neutral.max.fbx",
+      "bytes": 877760,
+      "git_blob_sha": "f6346c68a30da9b89b4d561de885818c0e2f4080",
+      "sha256": "2f5647b86022ddbb702819ce939c7012e3636796fff93d1b979ea716a71dff5f",
+      "fbx_version": 7700,
+      "status": "downloaded source; not imported or integrated"
+    }
+  ]
+}

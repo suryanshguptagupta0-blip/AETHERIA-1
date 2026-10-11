@@ -1,0 +1,13 @@
+Source: https://www.metahuman.com/en-US/license
+Retrieved: 2026-10-11 UTC
+HTML SHA256: 5151135472d2e3f65f24f06375841cd0bfe7e7ea1530052b93f7ee4a975bead1
+
+MetaHuman | Licence - MetaHuman
+Licensing
+MetaHuman is included as part of your standard
+Unreal Engine license
+, meaning it’s free to use for anyone making under $1 million USD in revenue and Unreal Engine standard terms apply above that threshold.
+MetaHumans can be used with any engine or creative software. See the FAQ below for more details.
+See Unreal Engine licensing options
+
+Brief license-page excerpt only. Follow the source URL for the full current terms/FAQ. No MetaHuman assets were downloaded.

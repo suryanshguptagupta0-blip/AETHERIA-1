@@ -1,0 +1,15 @@
+name: Native source checks
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  portable-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 Tests/validate_project.py
+      - name: Exercise build receipt and APK rejection checks
+        run: python3 -m unittest discover -s Tests -p 'test_*.py' -v
+      - name: Execute authority rules
+        run: |
+          mkdir -p Tests/.build
+          g++ -std=c++17 -O2 -Wall -Wextra -Wpedantic -Werror -fno-exceptions -fno-rtti Source/Aetheria/Rules/AetheriaRules.cpp Tests/RulesTests.cpp -I Source/Aetheria/Rules -o Tests/.build/rules-tests
+          Tests/.build/rules-tests

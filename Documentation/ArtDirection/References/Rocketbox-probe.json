@@ -1,0 +1,81 @@
+{
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "note": "Read these bounded files into memory to inspect binary FBX markers; model binaries were not saved or imported. Markers are evidence of bone/skin data, not an engine import validation.",
+  "files": [
+    {
+      "path": "Assets/Avatars/Adults/Female_Adult_01/Export/Female_Adult_01.fbx",
+      "bytes": 609152,
+      "sha256": "8cbaf86576004b96469bc80df123b97fef788f4a7bb3f3eaa616fcfaf55698a3",
+      "fbx_binary_header": "Kaydara FBX Binary  \u0000\u001a\u0000",
+      "fbx_version": 7400,
+      "limb_node_marker_count": 160,
+      "skin_marker_count": 1,
+      "cluster_marker_count": 80,
+      "animation_stack_markers": 2,
+      "sample_bone_strings": [
+        "Bip01",
+        "Bip01 Footsteps",
+        "Bip01 Head",
+        "Bip01 L Calf",
+        "Bip01 L Clavicle",
+        "Bip01 L Finger0",
+        "Bip01 L Finger01",
+        "Bip01 L Finger02",
+        "Bip01 L Finger1",
+        "Bip01 L Finger11",
+        "Bip01 L Finger12",
+        "Bip01 L Finger2"
+      ]
+    },
+    {
+      "path": "Assets/Avatars/Adults/Male_Adult_01/Export/Male_Adult_01.fbx",
+      "bytes": 521472,
+      "sha256": "8d1edb51b4dc3427ae2456f4407fc105532c145dd019e53cd42bab31cc948a29",
+      "fbx_binary_header": "Kaydara FBX Binary  \u0000\u001a\u0000",
+      "fbx_version": 7400,
+      "limb_node_marker_count": 160,
+      "skin_marker_count": 1,
+      "cluster_marker_count": 80,
+      "animation_stack_markers": 2,
+      "sample_bone_strings": [
+        "Bip01",
+        "Bip01 Footsteps",
+        "Bip01 Head",
+        "Bip01 L Calf",
+        "Bip01 L Clavicle",
+        "Bip01 L Finger0",
+        "Bip01 L Finger01",
+        "Bip01 L Finger02",
+        "Bip01 L Finger1",
+        "Bip01 L Finger11",
+        "Bip01 L Finger12",
+        "Bip01 L Finger2"
+      ]
+    },
+    {
+      "path": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+      "bytes": 1379504,
+      "sha256": "e470ba984484149c8269772b7640b754bd996ba83b23ae75535128412997aa45",
+      "fbx_binary_header": "Kaydara FBX Binary  \u0000\u001a\u0000",
+      "fbx_version": 7700,
+      "limb_node_marker_count": 242,
+      "skin_marker_count": 0,
+      "cluster_marker_count": 0,
+      "animation_stack_markers": 2,
+      "sample_bone_strings": [
+        "Bip01",
+        "Bip01 Footsteps",
+        "Bip01 Head",
+        "Bip01 HeadNub",
+        "Bip01 L Calf",
+        "Bip01 L Clavicle",
+        "Bip01 L Finger0",
+        "Bip01 L Finger01",
+        "Bip01 L Finger02",
+        "Bip01 L Finger0Nub",
+        "Bip01 L Finger1",
+        "Bip01 L Finger11"
+      ]
+    }
+  ]
+}

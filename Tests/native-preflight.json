@@ -1,0 +1,15 @@
+{
+  "command": [
+    "python3",
+    "BuildScripts/build.py",
+    "android"
+  ],
+  "timestamp_utc": "2026-10-11T14:38:05.550291+00:00",
+  "exit_code": 2,
+  "native_build": "not_run",
+  "reason": "Build prerequisite/output error: UE_ROOT or --ue-root must point to a real Unreal Engine 5.6 installation. No native build was attempted.",
+  "android_toolchain": "installed_and_probed",
+  "engine_source_access": "connected_GitHub_lookup_404",
+  "remote_build_host": "not_configured",
+  "apk": "not_built"
+}

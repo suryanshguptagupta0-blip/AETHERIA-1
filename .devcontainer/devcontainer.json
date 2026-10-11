@@ -1,0 +1,19 @@
+{
+  "name": "Aetheria native source development",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1-debian-12",
+  "postCreateCommand": "bash .devcontainer/check-source.sh",
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-python.python"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12"
+    }
+  }
+}

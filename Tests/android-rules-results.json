@@ -1,0 +1,34 @@
+{
+  "check": "android_arm64_rules_compile",
+  "passed": true,
+  "timestamp_utc": "2026-10-11T14:26:59.374643+00:00",
+  "target": "aarch64-linux-android28",
+  "ndk": "27.2.12479018",
+  "compiler": "Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)\nTarget: aarch64-unknown-linux-android28\nThread model: posix\nInstalledDir: /workspace/toolchains/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin",
+  "command": [
+    "aarch64-linux-android28-clang++",
+    "-std=c++17",
+    "-Os",
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Werror",
+    "-fno-exceptions",
+    "-fno-rtti",
+    "-fPIC",
+    "-c",
+    "Source/Aetheria/Rules/AetheriaRules.cpp",
+    "-o",
+    "Tests/.build/android/AetheriaRules.o"
+  ],
+  "source_sha256": {
+    "Source/Aetheria/Rules/AetheriaRules.cpp": "7acbd4bec9eee0b8a205904fb0d897de42320cadb0cf3de9ffefbf779f2bd904",
+    "Source/Aetheria/Rules/AetheriaRules.h": "71c311a52d78c05fdca5a7df86af1ce6bff03d04d483d7e104c29980d406d0c5"
+  },
+  "object_sha256": "1e53c512739e0a88f1872f61cc69da5a5fa14479a1c0e6babe842ce7637e0831",
+  "object_bytes": 116872,
+  "elf_type": "ELF64 AArch64 relocatable object",
+  "unreal_compile": "not_run",
+  "android_execution": "not_run",
+  "apk": "not_built"
+}
